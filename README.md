@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou o Jonatan Peccin 👋
 
-<!--
-**Jonatan-Peccin-Dev/Jonatan-Peccin-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Estou desenvolvendo minhas habilidades em programação, com foco em JavaScript, HTML5, CSS3 e manipulação do DOM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente, estudo JavaScript e TypeScript, incluindo programação assíncrona, consumo de APIs e desenvolvimento com Node.js.
+
+🛠️ Também estou aprendendo a desenvolver aplicações backend com Express e bancos de dados MySQL.
+
+### 🚀 Tecnologias e ferramentas
+
+- HTML5 e CSS3
+- JavaScript
+- DOM e eventos
+- Git e GitHub
+- Node.js, Express e MySQL — em aprendizado
+
+### 📂 Sobre meus projetos
+
+Neste perfil, compartilho exercícios e projetos práticos desenvolvidos durante meus estudos, registrando minha evolução em desenvolvimento de software.
+
+### 🎯 Meu objetivo
+
+Conquistar minha primeira oportunidade na área de tecnologia, aplicar meus conhecimentos em projetos reais e continuar evoluindo como desenvolvedor.
